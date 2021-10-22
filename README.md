@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swathi!
+- 👋 Hello, call me Swathi!
 - I’m currently pursuing MEngg in Computer Science at VTech University.
 - I've previously worked as an Associate Analyst at Omnicom Media Group.
 
